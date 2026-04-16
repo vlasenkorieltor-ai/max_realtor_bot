@@ -2,7 +2,7 @@ import asyncio
 from datetime import datetime
 from maxapi import Bot
 
-BOT_TOKEN = "f9LHodD0cOKivMSI3c0xFh4Ajl2gp1oFLVhqP6o0V1uFGy5Bs2GxtsObTuChShsAzbTolHaS-FU6-T4c5wUH"
+BOT_TOKEN = "f9LHodD0cOL62DtyY4g8-cIVBYXbXbTcsTrV0s9iDQRR-kM4MjgOHONpUH3qYuNOqn4TzBdPZiUr-8LRgrry"
 
 CHATS = {
     "Мир Квартир Сочи": -73368178474297,
